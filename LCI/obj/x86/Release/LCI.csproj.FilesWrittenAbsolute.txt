@@ -1,0 +1,12 @@
+/home/ruther/Desktop/LCI/LCI/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ruther/Desktop/LCI/LCI/obj/x86/Release/LCI.gtk-gui.gui.stetic
+/home/ruther/Desktop/LCI/LCI/bin/Release/LCI.pdb
+/home/ruther/Desktop/LCI/LCI/bin/Release/LCI.exe
+/home/ruther/Desktop/LCI/LCI/obj/x86/Release/LCI.exe
+/home/ruther/Desktop/LCI/LCI/obj/x86/Release/LCI.pdb
+/home/ruther/Desktop/LCI_Semifinal/LCI/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ruther/Desktop/LCI_Semifinal/LCI/obj/x86/Release/LCI.gtk-gui.gui.stetic
+/home/ruther/Desktop/LCI_Semifinal/LCI/bin/Release/LCI.pdb
+/home/ruther/Desktop/LCI_Semifinal/LCI/bin/Release/LCI.exe
+/home/ruther/Desktop/LCI_Semifinal/LCI/obj/x86/Release/LCI.exe
+/home/ruther/Desktop/LCI_Semifinal/LCI/obj/x86/Release/LCI.pdb

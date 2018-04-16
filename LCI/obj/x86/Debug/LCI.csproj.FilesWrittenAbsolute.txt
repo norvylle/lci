@@ -1,0 +1,14 @@
+/home/ics-user/Desktop/LCI/LCI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ics-user/Desktop/LCI/LCI/obj/x86/Debug/LCI.gtk-gui.gui.stetic
+/home/ics-user/Desktop/LCI/LCI/bin/Debug/LCI.exe.mdb
+/home/ics-user/Desktop/LCI/LCI/bin/Debug/LCI.exe
+/home/ics-user/Desktop/LCI/LCI/obj/x86/Debug/LCI.exe
+/home/ics-user/Desktop/LCI/LCI/obj/x86/Debug/LCI.exe.mdb
+/home/ruther/Desktop/LCI/LCI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ruther/Desktop/LCI/LCI/obj/x86/Debug/LCI.gtk-gui.gui.stetic
+/home/ruther/Desktop/LCI/LCI/bin/Debug/LCI.exe.mdb
+/home/ruther/Desktop/LCI/LCI/bin/Debug/LCI.pdb
+/home/ruther/Desktop/LCI/LCI/bin/Debug/LCI.exe
+/home/ruther/Desktop/LCI/LCI/obj/x86/Debug/LCI.exe
+/home/ruther/Desktop/LCI/LCI/obj/x86/Debug/LCI.exe.mdb
+/home/ruther/Desktop/LCI/LCI/obj/x86/Debug/LCI.pdb
