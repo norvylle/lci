@@ -1,2 +1,2 @@
-# lci
-LOL
+# lci 
+LOLCODE Interpreter
